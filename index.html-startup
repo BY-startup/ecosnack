@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>EcoSnack – Start-up responsable</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f1ea; /* beige nude */
+            color: #2f4f2f;
+        }
+
+        header {
+            background-color: #6b8e23;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #9dbb8a;
+            padding: 12px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #2f4f2f;
+            text-decoration: none;
+            margin: 0 12px;
+            font-weight: bold;
+        }
+
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+
+        h2 {
+            color: #556b2f;
+            border-bottom: 2px solid #c2b280;
+            padding-bottom: 5px;
+        }
+
+        .card {
+            background-color: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 12px;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        footer {
+            background-color: #6b8e23;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>EcoSnack 🌱</h1>
+    <p>Des snacks sains, locaux et responsables</p>
+</header>
+
+<nav>
+    <a href="#presentation">Présentation</a>
+    <a href="#activite">Activité</a>
+    <a href="#ressources">Ressources</a>
+    <a href="#parties">Parties prenantes</a>
+    <a href="#engagements">Engagements</a>
+    <a href="#numerique">Numérique</a>
+</nav>
+
+<section id="presentation">
+    <h2>Présentation</h2>
+    <div class="card">
+        <p>
+            EcoSnack est une start-up engagée dans l’alimentation durable.
+            Elle propose des snacks sains, locaux et accessibles tout en réduisant
+            l’impact environnemental.  
+            Le projet s’adresse principalement aux jeunes dans les écoles,
+            lycées, universités et lieux publics.
+        </p>
+    </div>
+</section>
+
+<section id="activite">
+    <h2>Activité & finalités</h2>
+    <div class="card">
+        <ul>
+            <li>Installation de distributeurs automatiques écoresponsables</li>
+            <li>Snacks locaux et équilibrés</li>
+            <li>Emballages compostables ou réutilisables</li>
+        </ul>
+        <p><strong>Finalités :</strong></p>
+        <ul>
+            <li>Favoriser la transition écologique</li>
+            <li>Encourager une alimentation plus saine</li>
+            <li>Rendre l’écologie accessible aux jeunes</li>
+        </ul>
+    </div>
+</section>
+
+<section id="ressources">
+    <h2>Ressources de l’entreprise</h2>
+    <div class="card">
+        <ul>
+            <li><strong>Ressources humaines :</strong> fondateurs, techniciens, livreurs à vélo</li>
+            <li><strong>Ressources matérielles :</strong> distributeurs intelligents, snacks locaux, emballages écologiques</li>
+            <li><strong>Ressources financières :</strong> subventions, investisseurs, ventes</li>
+            <li><strong>Ressources numériques :</strong> application mobile, IA, site web</li>
+        </ul>
+    </div>
+</section>
+
+<section id="parties">
+    <h2>Parties prenantes</h2>
+    <div class="card">
+        <p><strong>Parties prenantes internes :</strong></p>
+        <ul>
+            <li>Employés</li>
+            <li>Fondateurs / partenaires internes</li>
+        </ul>
+
+        <p><strong>Parties prenantes externes :</strong></p>
+        <ul>
+            <li>Clients (élèves, parents, écoles, entreprises)</li>
+            <li>Producteurs locaux</li>
+            <li>Mairie de Thionville</li>
+            <li>Associations écologiques</li>
+            <li>Investisseurs</li>
+        </ul>
+    </div>
+</section>
+
+<section id="engagements">
+    <h2>Engagements sociaux & environnementaux</h2>
+    <div class="card">
+        <ul>
+            <li>Réduction du gaspillage alimentaire</li>
+            <li>Utilisation d’emballages compostables</li>
+            <li>Distributeurs fonctionnant à l’énergie solaire</li>
+            <li>Circuits courts avec des producteurs locaux</li>
+            <li>Sensibilisation des jeunes à la consommation responsable</li>
+        </ul>
+    </div>
+</section>
+
+<section id="numerique">
+    <h2>Outils numériques</h2>
+    <div class="card">
+        <ul>
+            <li>Application mobile : paiement, infos nutritionnelles, localisation</li>
+            <li>Intelligence artificielle : gestion des stocks et prévisions</li>
+            <li>Site web : communication et présentation du projet</li>
+            <li>Outils collaboratifs : Google Workspace, Canva, Trello</li>
+        </ul>
+    </div>
+</section>
+
+<footer>
+    <p>EcoSnack © 2025 – Projet scolaire</p>
+</footer>
+
+</body>
+</html>
